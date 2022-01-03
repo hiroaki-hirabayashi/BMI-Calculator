@@ -13,8 +13,8 @@ class ResultViewController: UIViewController {
     var advice: String?
     var color: UIColor?
 
-    @IBOutlet weak var bmiLabel: UILabel!
-    @IBOutlet weak var adviceLabel: UILabel!
+    @IBOutlet private weak var bmiLabel: UILabel!
+    @IBOutlet private weak var adviceLabel: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
