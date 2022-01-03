@@ -20,8 +20,8 @@
 		F47C4064278171AD00CDD87C /* Result.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F47C4063278171AD00CDD87C /* Result.storyboard */; };
 		F47C4067278177A400CDD87C /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47C4066278177A400CDD87C /* CalculatorBrain.swift */; };
 		F47C4069278177DF00CDD87C /* BMI.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47C4068278177DF00CDD87C /* BMI.swift */; };
-		F47C406C278178C000CDD87C /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47C406B278178C000CDD87C /* ResultViewController.swift */; };
 		F47C406E2781820C00CDD87C /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47C406D2781820C00CDD87C /* Router.swift */; };
+		F47C40B52783507300CDD87C /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47C40B42783507300CDD87C /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,8 +59,8 @@
 		F47C4063278171AD00CDD87C /* Result.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Result.storyboard; sourceTree = "<group>"; };
 		F47C4066278177A400CDD87C /* CalculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		F47C4068278177DF00CDD87C /* BMI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMI.swift; sourceTree = "<group>"; };
-		F47C406B278178C000CDD87C /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		F47C406D2781820C00CDD87C /* Router.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
+		F47C40B42783507300CDD87C /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,7 +164,7 @@
 			isa = PBXGroup;
 			children = (
 				F47C4033278165B300CDD87C /* ViewController.swift */,
-				F47C406B278178C000CDD87C /* ResultViewController.swift */,
+				F47C40B42783507300CDD87C /* ResultViewController.swift */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -304,7 +304,7 @@
 				F47C406E2781820C00CDD87C /* Router.swift in Sources */,
 				F47C403A278165B300CDD87C /* BMI_Calculator.xcdatamodeld in Sources */,
 				F47C4034278165B300CDD87C /* ViewController.swift in Sources */,
-				F47C406C278178C000CDD87C /* ResultViewController.swift in Sources */,
+				F47C40B52783507300CDD87C /* ResultViewController.swift in Sources */,
 				F47C4030278165B300CDD87C /* AppDelegate.swift in Sources */,
 				F47C4067278177A400CDD87C /* CalculatorBrain.swift in Sources */,
 				F47C4069278177DF00CDD87C /* BMI.swift in Sources */,
